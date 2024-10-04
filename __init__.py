@@ -1,1 +1,1 @@
-from .group_invitaion import *
+from .group_invitation import *
